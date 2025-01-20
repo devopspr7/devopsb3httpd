@@ -6,6 +6,5 @@ pipeline { // top level field
             echo "Welcome to First SCM Pipeline!!!!"
            } 
         }
-
     } 
 }
